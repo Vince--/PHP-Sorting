@@ -19,10 +19,10 @@
 
 </style>
  <script>
-        alert("数据结构实训");
+        alert("PHP Sorting");
          function deal()
         {
-           alert("数据处理中，请稍后");
+           alert("processing.....");
         }
     </script>
 </head>
@@ -70,7 +70,7 @@
 </center>
 </form>
 <div class="footer">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>数据结构</b><small>Powered By J1300823 吴浩宇</small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>PHP Sorting </b><small>Powered By </small>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Powered By J1300823 吴浩宇 -->
 </div>
 </BODY>
